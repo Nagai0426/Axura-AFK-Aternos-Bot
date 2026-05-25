@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "butterfish.aternos.host",
+    "ip": "loach.aternos.host",
     "port": 51822,
     "version": "",
     "try-creative": false
